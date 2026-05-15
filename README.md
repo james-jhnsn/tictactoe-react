@@ -41,4 +41,8 @@ npm install
 npm run dev
 npm run build
 ```
+## Production Build
 
+```bash
+npm run build
+```
