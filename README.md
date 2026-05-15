@@ -1,34 +1,44 @@
-## <p align="center">Calculator App</p>
+# Tic Tac Toe App
 
 [![](screenshot/tic-tac-toe.PNG)](https://xs-os-react.netlify.app/)
 
-## Features:
-* The user can play tic tac toe with a friend.
+## Features
+
+- Two-player Tic Tac Toe gameplay
+- Scoreboard to track wins
+- Dynamic turn switching between players
+- Win/draw detection
+- Interactive game board built with React components
 
 ## Built With
-* React
 
-## Todos
-1. ~~Add a scoreboard~~
-2. Add option to play against the computer
-3. Add animations when someone wins.
+- React
+- JavaScript
+- HTML
+- CSS
+- npm
 
+## What I Learned
+
+- Managing game state in React
+- Passing data between components
+- Handling click events and conditional rendering
+- Implementing win/draw logic
+- Structuring reusable frontend components
+
+## Future Improvements
+
+- Add option to play against the computer
+- Add animations when someone wins
+- Add difficulty levels for CPU mode
+- Improve mobile responsiveness
+- Add unit tests for game logic
 
 ## Project Setup
 
-```sh
+```bash
 npm install
-```
-
-## Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-## Compile and Minify for Production
-
-```sh
 npm run build
 ```
 
